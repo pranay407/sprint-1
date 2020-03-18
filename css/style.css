@@ -1,0 +1,19 @@
+.transparent_nav{
+    background-color:lightgray;
+    opacity: 0.7;
+}
+.nav-bar{
+    position: fixed;
+    
+}
+li{
+    list-style-type:none;
+    float: left;
+    padding:33px 20px;
+    float: right;
+    text-decoration: none;
+}
+.logo{
+    float: left;
+    padding:20px;
+}
